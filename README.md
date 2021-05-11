@@ -1,4 +1,5 @@
-# P6_FIFA_Rating_Calculator
+P6 FIFA Rating Calculator
+
 For the final project, I decided to work on a problem that I have personally faced while playing the popular soccer game EA Sports FIFA. In the game's Ultimate Team mode, you can create squads of 11 soccer players that each have their own overall stat. There are challenges where you have to create squads with certain qualifications, with one of the most important being the overall squad rating. The calculation of the overall squad rating is not as easy as adding the players' overall stats and dividing by 11. The actual calculation goes like this: 
 
 1 Sum up ratings of 11 players
